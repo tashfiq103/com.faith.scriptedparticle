@@ -1,0 +1,17 @@
+{
+    "name": "com.faith.scriptedparticle.Editor",
+    "references": [
+        "GUID:67f8814e443be2d4eac29b6ab19a35aa"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
